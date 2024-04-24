@@ -1,3 +1,3 @@
-# AI-Jam-ByteBites
+#Generative-AI
 
-Mental Health Support Chatbot
+Created an AI-driven chat-bot using spring-boot, integrating OpenAI's API (ChatGPT)
